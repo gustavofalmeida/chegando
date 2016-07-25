@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="br.com.marcioggs.cordovashowcase" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
-    <name>Cordova Showcase</name>
+<widget id="br.org.forsoft.visitario" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>VisitaRio</name>
     <description>
-        A Cordova Showcase application.
+        blablablablablabla
     </description>
     <author>
-        Márcio Gabriel and Michael Becker
+       Forsoft Team
     </author>
     <content src="index.html" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
